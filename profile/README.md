@@ -5,12 +5,13 @@
 - 매주 화요일까지 개인별 주제 선정 및 공유
 
 ## 📅 Terms
+2024.12.30 ~ 
 
 ## 🌻 Members 
 | 고민지 | 박경빈 | 조민규 | 한윤호 | 홍창현 | 
 | :---: | :----: | :---: | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/gominzip" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/Gyeongbin" alt="profile" width="180" height="180"> |  <img src="https://avatars.githubusercontent.com/Ariling" alt="profile" width="180" height="180">  | <img src="https://avatars.githubusercontent.com/hnnynh" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/spearStr" alt="profile" width="180" height="180"> |
-| [@gominzip](https://github.com/gominzip) | [@Gyeongbin](https://github.com/Gyeongbin) | [@Ariling](https://github.com/Ariling) | [@hnnynh](https://github.com/Ariling) | [@spearStr](https://github.com/spearStr) |
+| [@gominzip](https://github.com/gominzip) | [@Gyeongbin](https://github.com/Gyeongbin) | [@Ariling](https://github.com/Ariling) | [@hnnynh](https://github.com/hnnynh) | [@spearStr](https://github.com/spearStr) |
 
 <!--
 

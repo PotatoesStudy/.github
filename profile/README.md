@@ -6,6 +6,12 @@
 
 ## 📅 Terms
 
+## 🌻 Members 
+| 고민지 | 박경빈 | 조민규 | 한윤호 | 홍창현 | 
+| :---: | :----: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/gominzip" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/Gyeongbin" alt="profile" width="180" height="180"> |  <img src="https://avatars.githubusercontent.com/Ariling" alt="profile" width="180" height="180">  | <img src="https://avatars.githubusercontent.com/hnnynh" alt="profile" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/spearStr" alt="profile" width="180" height="180"> |
+| [@gominzip](https://github.com/gominzip) | [@Gyeongbin](https://github.com/Gyeongbin) | [@Ariling](https://github.com/Ariling) | [@hnnynh](https://github.com/Ariling) | [@spearStr](https://github.com/spearStr) |
+
 <!--
 
 **Here are some ideas to get you started:**
